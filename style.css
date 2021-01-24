@@ -125,3 +125,28 @@
     padding-top: 30px;
 
 }
+#mail
+
+{
+    margin:5px 20px 0px 30px;
+}
+
+
+#register
+
+{
+    left:70%;
+}
+
+.submit-btnu
+{
+    width:45%;
+    padding:10px 45px;
+    cursor:pointer;
+    display:block;
+    margin:30px 80px 100px 100px;
+    background: linear-gradient(to right, #ff105f,#ffad06);
+    border:0;
+    outline:none;
+    border-radius:30px;
+}
